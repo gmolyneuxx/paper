@@ -2,10 +2,10 @@
 Time travel cannot be possible, that is my opinion.
 
 # Author 
-Tony Stark
-Grace Molyneux
+Tony Stark, Stark Industries
+Grace Molyneux, University of Manchester
 
-# Introduction 
+#Introduction 
 The notion of time travel is impossible.
 
 I hate when movies introduce time travel (Bloggs et al 2004).
