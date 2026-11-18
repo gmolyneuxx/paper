@@ -24,3 +24,6 @@ I, myself, time travelled successfully and concluded it is not possible.
 
 # Results 
 results blah
+
+# Figures
+Figures in here.
